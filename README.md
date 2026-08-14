@@ -1,2 +1,2 @@
-# project-dream
+# report-ai
 2026 꿈키움캠프 프로젝트 저장소
