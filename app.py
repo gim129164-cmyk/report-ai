@@ -135,7 +135,7 @@ st.sidebar.write("### 📄 보고서 입력")
 report_title = st.sidebar.text_input(
     "보고서 제목",
     value=st.session_state["report_title"],
-    placeholder="예: 예쁜꼬마선충의 신경망 재현을 통한 뉴로모픽 반도체 기술 탐구"
+    placeholder="예: 스마트폰 사용이 학생들의 수면에 미치는 영향"
 )
 
 report_content = st.sidebar.text_area(
